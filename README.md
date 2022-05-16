@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Yerin%Kim&fontSize=90)
-
-##💻안녕하세요!
+## 💻안녕하세요!😄
 ### 🌱 &nbsp;Tech Stack🌱
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
 ![JPA](https://img.shields.io/badge/-JPA-05122A?style=flat&logo=jpa)&nbsp;
