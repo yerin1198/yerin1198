@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Yerin%Kim&fontSize=90)
+<center>
 <img src="https://img.shields.io/badge/Java-9999FF?style=for-the-badge&logo=Java&logoColor=black">
-<img src="https://img.shields.io/badge/Spring-FF61F6?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-FF61F6?style=for-the-badge&logo=Spring&logoColor=black">
+<img src="https://img.shields.io/badge/MySQL-#8BC0D0?style=for-the-badge&logo=MySQL&logoColor=black">
+ </center>
 <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
 <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
 <!--
