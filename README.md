@@ -5,7 +5,7 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;\
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![H2](https://img.shields.io/badge/-H2-05122A?style=flat&logo=h2)&nbsp;\
-![Querydsl](https://img.shields.io/badge/-Querydsl-05122A?style=flat)&nbsp;
+![Querydsl](https://img.shields.io/badge/-Querydsl-05122A?style=flat&logo-querydsl)&nbsp;
 ![Python3](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
