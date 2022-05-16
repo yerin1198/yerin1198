@@ -1,13 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Yerin%Kim&fontSize=90)
 
-<img src="https://img.shields.io/badge/Java-9999FF?style=for-the-badge&logo=Java&logoColor=black">
-<img src="https://img.shields.io/badge/Spring-FF61F6?style=for-the-badge&logo=Spring&logoColor=black">
-<img src="https://img.shields.io/badge/MySQL-#8BC0D0?style=for-the-badge&logo=MySQL&logoColor=black">
- 
-<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
-<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
-<!--
-**yerin1198/yerin1198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##💻안녕하세요!
+### 🌱 &nbsp;Tech Stack🌱
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
+![JPA](https://img.shields.io/badge/-JPA-05122A?style=flat&logo=jpa)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;\
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![H2](https://img.shields.io/badge/-H2-05122A?style=flat&logo=h2)&nbsp;\
+![Python3](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;\
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=Notion)&nbsp;
+
 
 Here are some ideas to get you started:
 
