@@ -1,4 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Yerin%Kim&fontSize=90)
+<img src="https://img.shields.io/badge/Java-9999FF?style=for-the-badge&logo=Java&logoColor=black">
+<img src="https://img.shields.io/badge/Spring-FF61F6?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
 <!--
 **yerin1198/yerin1198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
