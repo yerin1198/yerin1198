@@ -2,7 +2,7 @@
 ### 🌱 &nbsp;Tech Stack🌱
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
 ![JPA](https://img.shields.io/badge/-JPA-05122A?style=flat&logo=jpa)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;\
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;\
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![DRF](https://img.shields.io/badge/-DRF-05122A?style=flat&logo=djangorestframework)&nbsp;
 ![Python3](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;\
