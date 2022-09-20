@@ -16,5 +16,5 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=Notion)&nbsp;
-
+![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=Swagger)&nbsp;
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yerin1198&theme=synthwave&show_icons=true)
