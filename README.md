@@ -14,6 +14,7 @@
 ![Querydsl](https://img.shields.io/badge/-Querydsl-05122A?style=flat&logo-querydsl)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=Notion)&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=Swagger)&nbsp;
 
