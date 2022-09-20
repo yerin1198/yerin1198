@@ -5,6 +5,8 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;\
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![Python3](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;\
+![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nest.js)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;\
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![H2](https://img.shields.io/badge/-H2-05122A?style=flat&logo=h2)&nbsp;\
 ![Querydsl](https://img.shields.io/badge/-Querydsl-05122A?style=flat&logo-querydsl)
