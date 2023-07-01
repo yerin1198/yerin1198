@@ -20,4 +20,3 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yerin1198&theme=synthwave&show_icons=true)
